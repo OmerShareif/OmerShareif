@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmerShareif
 - 👀 I’m interested in Python, data science, matlab
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django,Flask
 - 💞️ I’m looking to collaborate on enhancing my skills in python and data science
 - 📫 How to reach me 
 - 😄 Pronouns: Omer
