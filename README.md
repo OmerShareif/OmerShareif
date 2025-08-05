@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omer Shareif
-- 👀 I’m interested in Python, data science, matlab/Octave
+- 👀 I’m interested in Python, data science, matlab/Octave, RF Antenna design,
 - 🌱 I’m currently developing skills in Django,Flask,FastApi and many more
 - 💞️ I’m looking to collaborate on enhancing my skills in python and data science
 - 📫 How to reach me : omershareifmd@gmail.com
